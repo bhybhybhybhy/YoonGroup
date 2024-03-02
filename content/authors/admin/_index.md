@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: David Y.
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: David
+last_name: Y.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: In-coming Assistant Professor of Computational Materials Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Baylor University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: PostDoc in Theoretical Chemistry
+      institution: University of Chicago
+      year: 2025
+    - course: PhD in Chemical Engineering
       institution: Massachusetts Institute of Technology
-      year: 2009
+      year: 2022
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:bohakyoon@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/BohakYoon
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=fFMlDWEAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bhybhybhybhy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
