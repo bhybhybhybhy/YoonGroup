@@ -4,7 +4,7 @@ title: David Y.
 
 # Full Name (for SEO)
 first_name: David
-last_name: Y.
+last_name: Y
 
 # Is this the primary user of the site?
 superuser: true
