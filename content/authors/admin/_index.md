@@ -10,7 +10,7 @@ last_name: Y
 superuser: true
 
 # Role/position
-role: In-coming Assistant Professor of Computational Materials Science and Engineering
+role: (In-coming) Assistant Professor of Materials Science and Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,14 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational modeling in quantum chemistry, materials science, and statistical mechanics.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistical Mechanics
+  - Quantum Chemistry
+  - Computational Materials Engineering
+  - Chemical Physics
 
 education:
   courses:
@@ -72,6 +74,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+David Y is an Assistant Professor of Computational Materials Science and Engineering and Artificial Intelligence at Baylor University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
