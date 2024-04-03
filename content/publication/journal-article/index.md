@@ -19,7 +19,7 @@ pages: "22132--22139"
 month: "Sep"
 publisher: "Royal Society of Chemistry"
 doi: "10.1039/C9CP04518J"
-url: "https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp04518j"
+url: https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp04518j
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -50,7 +50,7 @@ featured: false
 #   url: ""
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_pdf: https://pubs.rsc.org/en/content/articlepdf/2019/cp/c9cp04518j
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
