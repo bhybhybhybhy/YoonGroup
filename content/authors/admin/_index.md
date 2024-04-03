@@ -74,6 +74,4 @@ user_groups:
   - Researchers
 ---
 
-David Y is an Assistant Professor of Computational Materials Science and Engineering and Artificial Intelligence at Baylor University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+David Yoon is an in-coming Assistant Professor of Computational Materials Science and Engineering in the Department of Chemistry and Biochemistry at Baylor University. His research interests include multiscale modeling, materials design, statistical mechanics, and artificial intelligence. He leads the Yoon Research group, which develops new multiscale computational modeling towards materials design, energy, and sustainability.
