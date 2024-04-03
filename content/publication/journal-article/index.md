@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Molecular Mechanisms for Thermal Degradation of CO2-Loaded Aqueous Monoethanolamine: A First-Principles Study![image](https://github.com/bhybhybhybhy/research-group/assets/161972540/c10536d0-766c-4aac-846c-b051d19b84f8)"
 authors:
 - admin
-- Robert Ford
+- David Yoon
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+#- "Equal contribution"
+#- "Equal contribution"
+#date: "2015-09-01T00:00:00Z"
+date: "2019-09-25T00:00:00Z"
+doi: "10.1039/C9CP04518J"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-09-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +20,16 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+#publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Physical Chemistry Chemical Physics![image](https://github.com/bhybhybhybhy/research-group/assets/161972540/d0764a6c-cce4-44e1-868c-176a91d44430)
+, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Thermal degradation of aqueous monoethanolamine (MEA), a benchmark solvent, in CO2 capture processes still remains a challenge. Here, we present molecular mechanisms underlying thermal degradation of MEA based on ab initio molecular dynamics simulations coupled with metadynamics sampling. Isocyanate formation via dehydration of carbamic acid (MEACOOH) is predicted to be highly probable and more kinetically favorable than the competing cyclization–dehydration reaction to 2-oxazolidinone (OZD), albeit not substantially. Isocyanate may undergo cyclization to form OZD, which is found to be more facile in aqueous MEA solution than reaction with MEA to form urea, although the latter is thermodynamically more favorable than the former. Our simulations also clearly demonstrate that OZD is a long-lived intermediate that plays a key role in MEA thermal degradation to experimentally observed products. Overall, this work highlights the importance of entropic contributions associated with the local structure and dynamics of solvent molecules around the intermediates, which cannot be solely explained by thermodynamics, in predicting the mechanism and kinetics of thermal degradation of CO2-loaded aqueous amine solutions.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -33,7 +38,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://pubs.rsc.org/en/content/articlepdf/2019/cp/c9cp04518j)
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
