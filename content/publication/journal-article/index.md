@@ -1,5 +1,5 @@
 ---
-title: "Molecular Mechanisms for Thermal Degradation of CO2-Loaded Aqueous Monoethanolamine: A First-Principles Study"
+#title: "Molecular Mechanisms for Thermal Degradation of CO2-Loaded Aqueous Monoethanolamine: A First-Principles Study"
 authors:
 - admin
 - David Yoon
@@ -7,12 +7,24 @@ author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 #date: "2015-09-01T00:00:00Z"
-date: "2019-09-25T00:00:00Z"
-doi: "10.1039/C9CP04518J"
+#date: "2019-09-25T00:00:00Z"
+#doi: "10.1039/C9CP04518J"
+
+  title = {Molecular Mechanisms for Thermal Degradation of CO2-Loaded Aqueous Monoethanolamine: A First-Principles Study},
+  author={Yoon, Bohak and Hwang, G.S.},
+  journal = {Physical Chemistry Chemical Physics},
+  year    = {2019},
+  volume  = {21},
+  issue  = {39},
+  pages  = {22132--22139}
+  month  = {Sep},
+  publisher = {Royal Society of Chemistry},
+  doi = {10.1039/C9CP04518J},
+  url = {https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp04518j}
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
-publishDate: "2019-09-25T00:00:00Z"
+#publishDate: "2019-09-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,8 +33,8 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
-publication: "*Physical Chemistry Chemical Physics, 1*(1)"
-publication_short: ""
+#publication: "*Physical Chemistry Chemical Physics, 1*(1)"
+#publication_short: ""
 
 abstract: Thermal degradation of aqueous monoethanolamine (MEA), a benchmark solvent, in CO2 capture processes still remains a challenge. Here, we present molecular mechanisms underlying thermal degradation of MEA based on ab initio molecular dynamics simulations coupled with metadynamics sampling. Isocyanate formation via dehydration of carbamic acid (MEACOOH) is predicted to be highly probable and more kinetically favorable than the competing cyclization–dehydration reaction to 2-oxazolidinone (OZD), albeit not substantially. Isocyanate may undergo cyclization to form OZD, which is found to be more facile in aqueous MEA solution than reaction with MEA to form urea, although the latter is thermodynamically more favorable than the former. Our simulations also clearly demonstrate that OZD is a long-lived intermediate that plays a key role in MEA thermal degradation to experimentally observed products. Overall, this work highlights the importance of entropic contributions associated with the local structure and dynamics of solvent molecules around the intermediates, which cannot be solely explained by thermodynamics, in predicting the mechanism and kinetics of thermal degradation of CO2-loaded aqueous amine solutions.
 
