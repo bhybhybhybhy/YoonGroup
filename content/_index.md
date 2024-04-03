@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **DY Research Group** has been a center of excellence for Artificial Intelligence and Multiscale Computational Modeling research, teaching, and practice towards Materials Science and Engineering since its founding in 2023.
+        The **Yoon Research Group** has been a center of excellence for Multiscale Computational Modeling and Artificial Intelligence research, teaching, and practice towards Materials Science and Engineering since its founding in 2025.
   
   - block: collection
     content:
