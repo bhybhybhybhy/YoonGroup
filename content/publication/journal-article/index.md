@@ -10,17 +10,17 @@ author_notes:
 #date: "2019-09-25T00:00:00Z"
 #doi: "10.1039/C9CP04518J"
 
-title = {Molecular Mechanisms for Thermal Degradation of CO2-Loaded Aqueous Monoethanolamine: A First-Principles Study},
-author={Yoon, Bohak and Hwang, G.S.},
-journal = {Physical Chemistry Chemical Physics},
-year    = {2019},
-volume  = {21},
-issue  = {39},
-pages  = {22132--22139}
-month  = {Sep},
-publisher = {Royal Society of Chemistry},
-doi = {10.1039/C9CP04518J},
-url = {https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp04518j}
+title: "Molecular Mechanisms for Thermal Degradation of CO2-Loaded Aqueous Monoethanolamine: A First-Principles Study"
+author: "Yoon, Bohak and Hwang, G.S."
+journal: "Physical Chemistry Chemical Physics"
+year: "2019"
+volume: "21"
+issue: "39"
+pages: "22132--22139"
+month: "Sep"
+publisher: "Royal Society of Chemistry"
+doi: "10.1039/C9CP04518J"
+url = "https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp04518j"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
