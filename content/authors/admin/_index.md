@@ -10,7 +10,7 @@ last_name: Yoon
 superuser: true
 
 # Role/position
-role: (In-coming) Assistant Professor of Materials Science and Engineering and the Department of Chemistry and Biochemistry
+role: (Incoming) Assistant Professor of Materials Science and Engineering in the Department of Chemistry and Biochemistry
 
 # Organizations/Affiliations
 organizations:
@@ -74,4 +74,4 @@ user_groups:
   - Researchers
 ---
 
-David Yoon is an incoming Assistant Professor of Computational Materials Science and Engineering in the Department of Chemistry and Biochemistry at Baylor University. His research interests include multiscale modeling, materials design, statistical mechanics, and artificial intelligence. He leads the Yoon Research group, which develops new multiscale computational modeling towards materials design, energy, and sustainability.
+David Yoon is an incoming Assistant Professor of Computational Materials Science and Engineering in the Department of Chemistry and Biochemistry at Baylor University. His research interests include multiscale modeling, materials design, statistical mechanics, and artificial intelligence. He leads the Yoon Research Group, which develops new multiscale computational modeling towards materials design, energy, and sustainability.
