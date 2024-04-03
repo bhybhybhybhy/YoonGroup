@@ -1,16 +1,16 @@
 ---
 # Display name
-title: David Y.
+title: David Yoon
 
 # Full Name (for SEO)
 first_name: David
-last_name: Y
+last_name: Yoon
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: (In-coming) Assistant Professor of Materials Science and Engineering
+role: (In-coming) Assistant Professor of Materials Science and Engineering and the Department of Chemistry and Biochemistry
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational modeling in quantum chemistry, materials science, and statistical mechanics.
+bio: My research interests include computational modeling in theoretical chemistry, materials science & engineering, and statistical mechanics.
 
 interests:
-  - Artificial Intelligence
+  - Computational Modeling
   - Statistical Mechanics
-  - Quantum Chemistry
-  - Computational Materials Engineering
+  - Theoretical Chemistry
+  - Materials Design
   - Chemical Physics
 
 education:
@@ -33,10 +33,10 @@ education:
       institution: University of Chicago
       year: 2025
     - course: PhD in Chemical Engineering
-      institution: Massachusetts Institute of Technology
+      institution: University of Texas at Austin
       year: 2022
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: Lehigh University
       year: 2016
 
 # Social/Academic Networking
