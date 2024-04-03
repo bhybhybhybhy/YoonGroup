@@ -20,7 +20,7 @@ pages: "22132--22139"
 month: "Sep"
 publisher: "Royal Society of Chemistry"
 doi: "10.1039/C9CP04518J"
-url = "https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp04518j"
+URL: "https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp04518j"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
