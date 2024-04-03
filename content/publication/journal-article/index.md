@@ -9,7 +9,6 @@ author_notes:
 #date: "2015-09-01T00:00:00Z"
 #date: "2019-09-25T00:00:00Z"
 #doi: "10.1039/C9CP04518J"
-
 title: "Molecular Mechanisms for Thermal Degradation of CO2-Loaded Aqueous Monoethanolamine: A First-Principles Study"
 author: "Yoon, Bohak and Hwang, G.S."
 journal: "Physical Chemistry Chemical Physics"
