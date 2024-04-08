@@ -9,6 +9,10 @@ authors:
 - Mengjie Chen
 - Gyeong S. Hwang
 - Zhiwu Liang
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2022-01-01'
 publishDate: '2024-04-08T22:53:28.535624Z'
 publication_types:
