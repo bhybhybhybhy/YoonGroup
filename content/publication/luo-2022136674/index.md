@@ -9,6 +9,9 @@ authors:
 - Gyeong S. Hwang
 - Min Xiao
 - Zhiwu Liang
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2022-01-01'
 publishDate: '2024-04-08T20:58:55.754254Z'
 publication_types:
