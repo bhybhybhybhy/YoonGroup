@@ -1,0 +1,38 @@
+---
+title: First-Principles Assessment of Anomalous Thermal Degradation of Aqueous 2-Amino-2-methyl-1-propanol
+  for CO2 Capture
+authors:
+- Bohak Yoon
+- Gyeong S. Hwang
+date: '2021-01-01'
+publishDate: '2024-04-08T20:58:55.732058Z'
+publication_types:
+- article-journal
+publication: '*Energy & Fuels*'
+doi: 10.1021/acs.energyfuels.1c02361
+abstract: ' 2-Amino-2-methyl-1-propanol (AMP) is considered an attractive solvent
+  for CO2 capture, but the mechanism responsible for its thermal degradation to the
+  major product, cyclic 4,4-dimethyl-1,3-oxazolidin-2-one (DMOZD), is still uncertain.
+  Oxazolidinone formation is known to occur via carbamate formation as seen from the
+  case of aqueous monoethanolamine (MEA) in which cyclic 2-oxazolidinone (OZD) may
+  further react with free MEA leading to the formation of more stable products. However,
+  bicarbonate has been experimentally found to be the predominant species in the CO2-loaded
+  aqueous AMP solution, contrary to the case of MEA. Based on first-principles simulations,
+  we present molecular mechanisms underlying the anomalous degradation of AMP in the
+  CO2 capture process. Our simulation results clearly suggest a high likelihood of
+  carbamic acid formation in high CO2 loaded, concentrated aqueous solutions of AMP,
+  especially at high stripping temperatures (>400 K) where bicarbonate formation tends
+  to be kinetically less favorable than carbamate formation. DMOZD is found to be
+  formed from carbamic acid primarily following a direct ring-closure mechanism. Our
+  simulations also demonstrate that the reaction of DMOZD with free AMP can be markedly
+  suppressed compared to the reaction between OZD and free MEA. Further analyses clearly
+  illustrate that the presence of methyl groups in AMP and AMP derivatives makes their
+  solvation structure and dynamics noticeably different from those of MEA and MEA
+  derivatives. The solvation effect turns out to be largely responsible for the distinct
+  difference in the degradation behavior between AMP and MEA in aqueous solution.
+  Our findings can provide guidance for rational ligand design of sterically hindered
+  amines for cost-effective CO2 capture.'
+links:
+- name: URL
+  url: doi.org/10.1021/acs.energyfuels.1c02361
+---
