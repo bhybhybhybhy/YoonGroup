@@ -3,7 +3,6 @@
 title:
 date: 2022-10-24
 type: landing
-$navbar-bg:  rgba(216, 6, 33, .65);
 
 sections:
   - block: hero
