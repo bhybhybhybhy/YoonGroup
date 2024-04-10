@@ -10,7 +10,7 @@ sections:
       title: |
         The Yoon Research Group
       image:
-        filename: welcome.jpg
+        filename: Baylor_university_campus.jpg #welcome.jpg
       text: |
         <br>
         
