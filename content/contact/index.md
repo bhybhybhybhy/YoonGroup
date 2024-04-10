@@ -47,15 +47,15 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
+  #- block: markdown
+  #  content:
+  #    title:
+  #    subtitle: ''
+  #    text:
+  #  design:
+  #    columns: '1'
+  #    background:
+  #      image: 
           #filename: contact.jpg
           filters:
             brightness: 1
