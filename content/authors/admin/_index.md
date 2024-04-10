@@ -35,7 +35,7 @@ education:
     - course: PhD in Chemical Engineering
       institution: University of Texas at Austin
       year: 2022
-    - course: BSc in Artificial Intelligence
+    - course: BSc in Chemical Engineering
       institution: Lehigh University
       year: 2016
 
@@ -74,4 +74,4 @@ user_groups:
   - Researchers
 ---
 
-David Yoon is an incoming Assistant Professor of Computational Materials Science and Engineering in the Department of Chemistry and Biochemistry at Baylor University. His research interests include multiscale modeling, materials design, statistical mechanics, and artificial intelligence. He leads the Yoon Research Group, which develops new multiscale computational modeling towards materials design, energy, and sustainability.
+Bohak Yoon is an incoming Assistant Professor of Computational Materials Science and Engineering in the Department of Chemistry and Biochemistry at Baylor University. His research interests include multiscale modeling, materials design, statistical mechanics, and artificial intelligence. He leads the Yoon Research Group, which develops new multiscale computational modeling towards materials design, energy, and sustainability.
