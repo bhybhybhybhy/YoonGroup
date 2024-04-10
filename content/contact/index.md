@@ -56,7 +56,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: Baylor_university_campus.jpg #contact.jpg
+          filename: Baylor_university_campus.jpg ##contact.jpg
           filters:
             brightness: 1
           parallax: false
