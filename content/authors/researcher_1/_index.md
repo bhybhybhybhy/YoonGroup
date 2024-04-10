@@ -1,6 +1,6 @@
 ---
 # Display name
-#title: John Doe
+title: John Doe
 
 # Full Name (for SEO)
 first_name: John
@@ -66,7 +66,7 @@ role: Graduate student Baylor University
 #email: 'bohakyoon@gmail.com'
 
 # Highlight the author in author lists? (true/false)
-#highlight_name: false
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
