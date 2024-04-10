@@ -35,7 +35,7 @@ education:
     - course: PhD in Chemical Engineering
       institution: University of Texas at Austin
       year: 2022
-    - course: BSc in Chemical Engineering
+    - course: BS in Chemical Engineering
       institution: Lehigh University
       year: 2016
 
