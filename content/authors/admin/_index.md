@@ -18,14 +18,14 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational modeling in theoretical chemistry, materials science & engineering, and statistical mechanics.
+bio: My research interests include computational modeling in theoretical chemistry, materials science & engineering, statistical mechanics, and artificial intelligence.
 
 interests:
   - Computational Modeling
   - Statistical Mechanics
   - Theoretical Chemistry
-  - Materials Design
-  - Chemical Physics
+  - Materials Design and Discovery
+  - Artificial Intelligence
 
 education:
   courses:
@@ -74,4 +74,4 @@ user_groups:
   - Researchers
 ---
 
-Bohak Yoon is an incoming Assistant Professor of Computational Materials Science and Engineering in the Department of Chemistry and Biochemistry at Baylor University. His research interests include multiscale modeling, materials design, statistical mechanics, and artificial intelligence. He leads the Yoon Research Group, which develops new multiscale computational modeling towards materials design, energy, and sustainability.
+Bohak Yoon is an incoming Assistant Professor of Computational Materials Science and Engineering in the Department of Chemistry and Biochemistry at Baylor University. His research interests include multiscale modeling, computational and theoretical chemistry, materials design and discovery, statistical mechanics, and artificial intelligence. He leads the Yoon Research Group, which develops and applies new multiscale computational modeling and theory with materials design and discovery towards energy and sustainability challenges.
