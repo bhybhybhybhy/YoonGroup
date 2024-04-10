@@ -11,6 +11,8 @@ sections:
         The Yoon Research Group
       image:
         filename: Baylor_university_campus.jpg #welcome.jpg
+        position: center
+        size: cover
       text: |
         <br>
         
@@ -44,7 +46,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: Baylor_university_campus.jpg #coders.jpg
           filters:
             brightness: 1
           parallax: false
