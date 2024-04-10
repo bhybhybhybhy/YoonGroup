@@ -11,7 +11,7 @@ superuser: false
 
 # Role/position
 role: (Incoming) Graduate student
-BS Baylor University
+role: BS Baylor University
 
 # Organizations/Affiliations
 #organizations:
