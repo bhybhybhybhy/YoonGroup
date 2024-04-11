@@ -10,7 +10,7 @@ last_name: Doe
 superuser: false
 
 # Role/position
-role: Graduate student Baylor University
+role: Graduate student BS Baylor University
 
 # Organizations/Affiliations
 #organizations:
