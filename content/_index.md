@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
         
-        ** THE YOON LAB** will be a center of excellence for Multiscale Computational Modeling and Artificial Intelligence research, teaching, and practice towards Materials Science and Engineering since its founding in 2025.
+        THE ** YOON LAB** will be a center of excellence for Multiscale Computational Modeling and Artificial Intelligence research, teaching, and practice towards Materials Science and Engineering since its founding in 2025.
   
 #  - block: collection
 #    content:
