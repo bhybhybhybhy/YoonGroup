@@ -20,12 +20,12 @@ sections:
         country: United States
         country_code: US
       coordinates:
-        latitude: 'GVXP+5R Waco, Texas'
-        longitude: 'GVXP+5R Waco, Texas'
-      directions: Enter the De
+        latitude: '31.54839536621661'
+        longitude: '-97.11305180082111'
+      directions: Enter the Baylor Sciences Building.
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday 10:00 to 16:00'
+        - 'Wednesday 10:00 to 15:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
