@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        THE YOON LAB
+        THE YOON GROUP
       image:
         filename: Baylor_university_campus.jpg #welcome.jpg
         position: center
@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
         
-        THE YOON LAB will be a center of excellence for Multiscale Computational Modeling and Artificial Intelligence research, teaching, and practice towards Materials Science and Engineering since its founding in 2025.
+        THE YOON GROUP will be a center of excellence for Multiscale Computational Modeling and Artificial Intelligence research, teaching, and practice towards Materials Science and Engineering since its founding in 2025.
   
 #  - block: collection
 #    content:
