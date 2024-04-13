@@ -75,4 +75,4 @@ user_groups:
  # - Researchers
 ---
 
-Bohak Yoon is an incoming Assistant Professor of Computational Materials Science and Engineering in the Department of Chemistry and Biochemistry at Baylor University. His research interests include multiscale modeling, computational and theoretical chemistry, materials design and discovery, statistical mechanics, and artificial intelligence. He leads THE YOON LAB, which develops and applies new multiscale computational modeling and theory with materials design and discovery towards energy and sustainability challenges.
+Bohak Yoon is an incoming Assistant Professor of Computational Materials Science and Engineering in the Department of Chemistry and Biochemistry at Baylor University. His research interests include multiscale modeling, computational and theoretical chemistry, materials design and discovery, statistical mechanics, and artificial intelligence. He leads THE YOON GROUP, which develops and applies new multiscale computational modeling and theory with materials design and discovery towards energy and sustainability challenges.
