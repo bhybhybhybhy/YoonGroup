@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-         We're looking for highly motivated graduate and undergraduate students and postdocs in THE YOON LAB. Please send an email with your CV, if you're interested in working with us!
+         We're looking for highly motivated graduate and undergraduate students and postdocs in THE YOON GROUP. Please send an email with your CV, if you're interested in working with us!
       email: bohakyoon@gmail.com
       phone: 347 111 1123
       address:
