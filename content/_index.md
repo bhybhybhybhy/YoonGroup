@@ -15,7 +15,7 @@ sections:
         size: cover
         filters:
             brightness: 1
-##          parallax: false
+          parallax: false
 ##          position: center
 ##          size: cover
 ##          text_color_light: true
