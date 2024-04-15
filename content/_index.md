@@ -10,7 +10,7 @@ sections:
       title: |
         THE YOON GROUP
       image:
-        filename: biopdb.jpg
+        filename: Baylor_university_campus.jpg
         position: center
         size: cover
         filters:
