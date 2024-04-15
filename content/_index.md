@@ -13,8 +13,8 @@ sections:
         filename: biopdb_1.jpg #welcome.jpg
         position: center
         size: cover
-##        filters:
-##            brightness: 1
+        filters:
+            brightness: 1
 ##          parallax: false
 ##          position: center
 ##          size: cover
