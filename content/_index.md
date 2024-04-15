@@ -10,7 +10,7 @@ sections:
       title: |
         THE YOON GROUP
       image:
-        filename: biopdb_13.png #welcome.jpg
+        filename: biopdb.png
         position: center
         size: cover
         filters:
