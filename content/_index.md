@@ -13,14 +13,14 @@ sections:
         filename: biopdb_1.jpg #welcome.jpg
         position: center
         size: cover
-        filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
+##        filters:
+##            brightness: 1
+##          parallax: false
+##          position: center
+##          size: cover
+##          text_color_light: true
+##      spacing:
+##        padding: ['20px', '0', '20px', '0']
 ##      css_class: fullscreen
       text: |
         <br>
